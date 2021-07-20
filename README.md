@@ -1,2 +1,2 @@
-# Lie_Detector
+# Lie-Detector
 A Lie Detector made with Arduino.
